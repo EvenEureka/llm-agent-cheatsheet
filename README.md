@@ -9,6 +9,7 @@
 | # | Topic | 主题 | Links |
 |---|---|---|---|
 | 01 | How LLMs learned to use tools (2015 → 2026) | 大模型是怎么学会用工具的 | [English](01-tool-calling-evolution/README.md) · [中文](01-tool-calling-evolution/README_zh.md) · [PDF](01-tool-calling-evolution/cheatsheet_zh.pdf) |
+| 02 | The evolution of test-time scaling (2019 → 2026) | Test-Time Scaling 进化史：推理时怎么花算力 | [English](02-test-time-scaling/README.md) · [中文](02-test-time-scaling/README_zh.md) · [PDF](02-test-time-scaling/cheatsheet_zh.pdf) |
 
 ![Timeline](01-tool-calling-evolution/assets/timeline_en.png)
 
